@@ -65,6 +65,10 @@ When appropriate:
 
 Always follow applicable laws and safety requirements.
 
+### Network security
+
+ESPFlight Protocol 2 is intended for use on trusted local Wi-Fi networks. The v1 control and telemetry transport does not provide encrypted or authenticated protection against hostile clients on the same network. Use a private, trusted network for flight control and testing.
+
 ## Licensing
 
 Except where otherwise noted, ESPFlight Documentation is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
