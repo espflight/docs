@@ -6,6 +6,21 @@ This repository contains the official documentation for learning, building, conf
 
 ESPFlight documentation is intended for enthusiasts, students, educators, Makers, developers, and engineers.
 
+## Start with ESPFlight v1.0
+
+If you are building the current public v1.0 platform, start here:
+
+**[Build ESPFlight v1.0](BUILD_V1.0.md)**
+
+The v1.0 baseline uses:
+
+- ESPFlight Firmware v1.0.0
+- ESPFlight Hardware Reference v1.0
+- ESPFlight Application v1.0.0
+- ESPFlight Protocol 2
+
+The build path links the public EasyEDA hardware source, validated GitHub Releases, Android application, firmware setup, and pre-flight validation steps in one place.
+
 ## Documentation
 
 The documentation covers:
@@ -24,7 +39,7 @@ The documentation covers:
 
 ## Getting Started
 
-If you are new to ESPFlight, start with the Getting Started guide.
+If you are new to ESPFlight, start with the v1.0 build path above.
 
 A typical ESPFlight workflow is:
 
